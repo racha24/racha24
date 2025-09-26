@@ -275,21 +275,6 @@ class Raghu:
 
 ---
 
-## 📚 Latest Blog Posts & Learning
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-🔹 **Optimizing Cloud Costs:** Graviton-powered architecture design patterns  
-🔹 **Data Engineering:** Building high-throughput ETL pipelines with Kafka  
-🔹 **Microservices:** Event-driven architecture best practices  
-🔹 **Leadership:** Scaling engineering teams and technical mentorship  
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
----
-
 ## 💡 Fun Facts & Interests
 
 <div align="center">
