@@ -1,13 +1,27 @@
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║    ██████╗  █████╗  ██████╗ ██╗  ██╗██╗   ██╗                                   ║
+║    ██╔══██╗██╔══██╗██╔════╝ ██║  ██║██║   ██║                                   ║
+║    ██████╔╝███████║██║  ███╗███████║██║   ██║                                   ║
+║    ██╔══██╗██╔══██║██║   ██║██╔══██║██║   ██║                                   ║
+║    ██║  ██║██║  ██║╚██████╔╝██║  ██║╚██████╔╝                                   ║
+║    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝                                    ║
+║                                                                                  ║
+║    > Senior Software Engineer @ Tada Mobility                                   ║
+║    > Java Backend & Full-Stack Developer                                        ║
+║    > 7+ Years Building Enterprise Systems                                       ║
+║    > Spring Boot | Microservices | Cloud Architecture                          ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FFD700&height=180&section=header&text=Raghu%20Chandran&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=60&lines=%24+whoami;raghu@enterprise:~%24+cat+experience.txt;7%2B+years+building+scalable+systems;15k%2B+requests%2Fsecond+optimized;%24+./deploy_microservices.sh;%5BSUCCESS%5D+Enterprise+systems+deployed" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=80&lines=Java+Backend+%26+Full-Stack+Developer;7%2B+Years+of+Engineering+Excellence;Building+Scalable+Systems+%40+Enterprise+Scale;Spring+Boot+%7C+Microservices+%7C+Cloud+Native" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 </div>
 
 ---
@@ -18,13 +32,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 **Currently Working:** Software Engineer II at [Tada Mobility](https://tadatada.com/)
+- 🔭 **Currently Working:** Senior Software Engineer at [Tada Mobility](https://tadatada.com/)
 - 🧠 **Core Expertise:** Java/Kotlin Backend, Spring Boot Microservices, Cloud-Native Architecture
 - 💼 **Experience:** 7+ Years across **Enterprise**, **Fintech**, **EdTech**, **Data Engineering** & **Mobility**
 - 🎯 **Specializations:** RESTful APIs, Microservices, Event-Driven Systems, Database Design
 - 🌱 **Tech Stack:** Java 17, Kotlin, Python, Spring Boot, React, AWS/Azure/GCP, PostgreSQL, Kafka
 - 📫 **Reach me:** [raghavendran.chand@gmail.com](mailto:raghavendran.chand@gmail.com)
-- 🌍 **Location:** Bengaluru, India
+- 🌍 **Location:** Mysore, Karnataka, India
 - ⚡ **Fun fact:** Built systems handling 15k+ req/s and optimized cloud costs by ₹1.6 Cr/year!
 
 ---
@@ -130,18 +144,17 @@ professional_highlights:
 
 ---
 
-## 📊 GitHub Analytics & Contribution Stats
+## 📊 GitHub Analytics & Public Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=racha24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racha24&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=racha24&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=racha24&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=racha24&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="racha24's GitHub streak"/>
 
 </div>
 
@@ -149,7 +162,7 @@ professional_highlights:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=racha24&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=racha24&theme=tokyo-night&bg_color=0d1117&color=4c8eda&line=4c8eda&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -157,21 +170,12 @@ professional_highlights:
 
 <div align="center">
 
-![Snake animation](https://github.com/racha24/racha24/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<!-- If snake animation doesn't work, here's an alternative cool visualization -->
-<div align="center">
-
-<img src="https://github.com/racha24/racha24/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
-</div>
-
-<!-- Fallback: Alternative contribution visualization -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=racha24&bg_color=000000&color=4c8eda&line=4c8eda&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+<!-- GitHub Snake Animation will be generated by Actions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/racha24/racha24/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/racha24/racha24/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/racha24/racha24/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -187,25 +191,40 @@ professional_highlights:
 
 ---
 
-## 🎓 Key Certifications
+## 🎓 Professional Focus Areas
 
 <div align="center">
 
-| **Cloud Platforms** | **Data Engineering** | **Development** |
+| **Backend Development** | **Cloud & Infrastructure** | **Data & Streaming** |
 |:---:|:---:|:---:|
-| AWS Certified Solutions Architect | Snowflake SnowPro Core | Spring Boot Professional |
-| Azure DevOps Engineer Expert | Apache Kafka Developer | React Advanced Patterns |
-| GCP Professional Cloud Developer | Databricks Certified Associate | Kubernetes Application Developer |
+| Java/Kotlin Enterprise Applications | AWS/Azure/GCP Cloud Architecture | Apache Kafka Event Streaming |
+| Spring Boot Microservices | Kubernetes Container Orchestration | PostgreSQL Database Design |
+| RESTful APIs & gRPC Services | Docker Containerization | Real-time Data Processing |
 
 </div>
 
 ---
 
-## 🚀 Recent Open Source Contributions
+## 💻 Primary Languages & Technologies
 
 <div align="center">
 
-[![racha24's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=racha24&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4c8eda&line=4c8eda&point=ffffff)](https://github.com/racha24)
+### Based on Professional Experience & Expertise
+
+![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Expert-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+## 📊 Public Repository Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=racha24&theme=tokyonight" width="100%" alt="racha24's Public Profile Details"/>
 
 </div>
 
