@@ -264,7 +264,7 @@ professional_highlights:
 
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=racha24&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Raghu&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 **⭐ From [Raghu](https://github.com/racha24) with passion for building amazing systems! ⭐**
 
