@@ -20,10 +20,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=60&lines=%24+whoami;raghu@enterprise:~%24+cat+experience.txt;7%2B+years+building+scalable+systems;15k%2B+requests%2Fsecond+optimized;%24+./deploy_microservices.sh;%5BSUCCESS%5D+Enterprise+systems+deployed" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -32,14 +28,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 **Currently Working:** Senior Software Engineer at [Tada Mobility](https://tadatada.com/)
-- 🧠 **Core Expertise:** Java/Kotlin Backend, Spring Boot Microservices, Cloud-Native Architecture
-- 💼 **Experience:** 7+ Years across **Enterprise**, **Fintech**, **EdTech**, **Data Engineering** & **Mobility**
-- 🎯 **Specializations:** RESTful APIs, Microservices, Event-Driven Systems, Database Design
-- 🌱 **Tech Stack:** Java 17, Kotlin, Python, Spring Boot, React, AWS/Azure/GCP, PostgreSQL, Kafka
-- 📫 **Reach me:** [raghavendran.chand@gmail.com](mailto:raghavendran.chand@gmail.com)
-- 🌍 **Location:** Mysore, Karnataka, India
-- ⚡ **Fun fact:** Built systems handling 15k+ req/s and optimized cloud costs by ₹1.6 Cr/year!
+- **Currently Working:** Senior Software Engineer at [Tada Mobility](https://tadatada.com/)
+- **Core Expertise:** Java/Kotlin Backend, Spring Boot Microservices, Cloud-Native Architecture
+- **Experience:** 7+ Years across **Enterprise**, **Fintech**, **EdTech**, **Data Engineering** & **Mobility**
+- **Specializations:** RESTful APIs, Microservices, Event-Driven Systems, Database Design
+- **Tech Stack:** Java 17, Kotlin, Python, Spring Boot, React, AWS/Azure/GCP, PostgreSQL, Kafka
+- **Reach me:** [raghavendran.chand@gmail.com](mailto:raghavendran.chand@gmail.com)
+- **Location:** Mysore, Karnataka, India
+- **Fun fact:** Built systems handling 15k+ req/s and optimized cloud costs by ₹1.6 Cr/year!
 
 ---
 
