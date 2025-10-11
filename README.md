@@ -140,11 +140,12 @@ professional_highlights:
 
 ---
 
-## 📊 GitHub Analytics & Public Stats
+## 📊 GitHub Analytics & Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=racha24&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=racha24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racha24&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&count_private=true"/>
 
 </div>
 
@@ -181,7 +182,38 @@ professional_highlights:
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=racha24&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![](https://github-profile-trophy.vercel.app/?username=racha24&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+
+</div>
+
+---
+
+## 💹 Advanced Analytics & Metrics
+
+<div align="center">
+
+### 📊 Comprehensive GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=racha24&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&custom_title=Complete%20GitHub%20Statistics&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=racha24&theme=tokyonight&hide_border=true&background=0D1117&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda" width="49%"/>
+
+</div>
+
+### 🎯 Contribution Heatmap & Patterns
+
+<div align="center">
+
+<img src="https://ssr-contributions-svg.vercel.app/_/racha24?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=30&theme=pink" width="100%"/>
+
+</div>
+
+### 📈 Code Distribution & Language Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=racha24&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=donut&langs_count=10&count_private=true&custom_title=Language%20Distribution" width="32%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=racha24&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=12&count_private=true&exclude_repo=racha24&hide=html,css" width="32%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=racha24&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=pie&langs_count=8&count_private=true" width="32%"/>
 
 </div>
 
@@ -216,11 +248,28 @@ professional_highlights:
 
 </div>
 
-## 📊 Public Repository Activity
+## 📊 Repository Activity & Contribution Insights
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=racha24&theme=tokyonight" width="100%" alt="racha24's Public Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=racha24&theme=tokyonight" width="100%" alt="racha24's Profile Details"/>
+
+</div>
+
+### 📈 Detailed Contribution Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=racha24&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=racha24&theme=tokyonight&utcOffset=5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=racha24&theme=tokyonight" width="32%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=racha24&theme=tokyonight" width="32%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=racha24&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" width="32%"/>
 
 </div>
 
