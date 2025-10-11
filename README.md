@@ -216,16 +216,6 @@ professional_highlights:
 
 ---
 
-## 🔐 Complete GitHub Metrics (All Private Repos Included)
-
-<div align="center">
-
-![Comprehensive Metrics](https://raw.githubusercontent.com/racha24/racha24/main/github-metrics.svg)
-
-</div>
-
----
-
 ## 🎓 Professional Focus Areas
 
 <div align="center">
