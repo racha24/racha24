@@ -158,7 +158,7 @@ professional_highlights:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=racha24&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10&count_private=true&hide=html,css&custom_title=Most%20Used%20Languages" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=racha24&theme=tokyonight" width="49%"/>
+<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.languages.clean.svg" width="49%"/>
 
 </div>
 
@@ -166,7 +166,8 @@ professional_highlights:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=racha24&theme=tokyonight" width="100%"/>
+<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.overview.svg" width="49%"/>
+<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.activity.clean.svg" width="49%"/>
 
 </div>
 
