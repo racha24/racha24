@@ -142,16 +142,18 @@ professional_highlights:
 
 ## 📊 GitHub Analytics & Performance Metrics
 
+> Including all public, private, and organization repository contributions
+
 <div align="center">
 
-### 🎯 Overview Stats (Including Private & Organization Repos)
+### 🎯 Overview Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=racha24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github"/>
 <img height="180em" src="https://streak-stats.demolab.com/?user=racha24&theme=tokyonight&hide_border=true&background=0D1117&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda"/>
 
 </div>
 
-### 💻 Language Distribution (Public + Private)
+### 💻 Language Distribution
 
 <div align="center">
 
@@ -209,74 +211,6 @@ professional_highlights:
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=racha24&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
----
-
-## 🔐 Private & Organization Repository Stats
-
-<div align="center">
-
-### Comprehensive Metrics (All Private Repos Included)
-
-<img src="https://raw.githubusercontent.com/racha24/racha24/main/github-metrics.svg" width="100%" alt="Comprehensive GitHub Metrics with Private Repos"/>
-
-</div>
-
-### 📅 Activity & Code Habits (Private + Public)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.plugin.activity.svg" width="49%" alt="Recent Activity"/>
-<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.plugin.habits.svg" width="49%" alt="Coding Habits"/>
-
-</div>
-
-### 🏆 Achievements & Follow-ups (All Contributions)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.plugin.achievements.svg" width="49%" alt="Achievements"/>
-<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.plugin.followup.svg" width="49%" alt="Follow-up Issues & PRs"/>
-
-</div>
-
-### 📊 Additional Insights
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.plugin.calendar.svg" width="49%" alt="Commit Calendar"/>
-<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.plugin.stars.svg" width="49%" alt="Star History"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.plugin.reviews.svg" width="49%" alt="Code Reviews & Reactions"/>
-<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.plugin.traffic.svg" width="49%" alt="Repository Traffic"/>
-
-</div>
-
----
-
-## 🏢 Organization Contributions
-
-<div align="center">
-
-### Working with easi6 & Other Organizations
-
-> The metrics above show comprehensive statistics from ALL private repositories including:
-> - Personal private projects
-> - Organization repositories (easi6, etc.)
-> - Collaborative private projects
-> - Enterprise codebases
-
-**Key Areas:**
-- Enterprise Java/Kotlin backend systems
-- Microservices architecture with Spring Boot
-- Cloud infrastructure on AWS/Azure/GCP
-- Real-time data processing with Kafka
 
 </div>
 
