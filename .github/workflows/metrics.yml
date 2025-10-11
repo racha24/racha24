@@ -14,157 +14,45 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Main Metrics with All Private Repos
-      - name: Generate Comprehensive Metrics
+      # Clean Overview Metrics - No Repo Names
+      - name: Generate Clean Overview Metrics
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.overview.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: racha24
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community
           config_timezone: Asia/Kolkata
           repositories: 500
           repositories_affiliations: owner, collaborator, organization_member
-          repositories_forks: yes
 
-          # Languages Plugin - All Private Repos
+      # Clean Language Stats - No Repo Names
+      - name: Generate Clean Language Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.clean.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: racha24
+          base: ""
           plugin_languages: yes
           plugin_languages_analysis_timeout: 30
-          plugin_languages_categories: markup, programming, data
+          plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 12
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 365
-          plugin_languages_recent_load: 1000
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_details: percentage
+          repositories_affiliations: owner, collaborator, organization_member
 
-          # Notable Contributions
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit
-
-          # Lines of Code
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 100
-          plugin_lines_sections: base, repositories, history
-
-          # Calendar
+      # Clean Activity Graph - No Repo Names
+      - name: Generate Clean Activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.activity.clean.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: racha24
+          base: ""
+          config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-      # Detailed Activity Metrics
-      - name: Generate Activity Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: racha24
-          base: ""
-          config_timezone: Asia/Kolkata
-          plugin_activity: yes
-          plugin_activity_days: 90
-          plugin_activity_filter: all
-          plugin_activity_limit: 15
-          plugin_activity_load: 1000
-          plugin_activity_timestamps: yes
-          plugin_activity_visibility: all
-          repositories_affiliations: owner, collaborator, organization_member
-
-      # Code Habits & Productivity
-      - name: Generate Habits Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: racha24
-          base: ""
-          config_timezone: Asia/Kolkata
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_from: 1000
-          plugin_habits_languages_limit: 12
-          plugin_habits_languages_threshold: 0%
-          plugin_habits_trim: yes
-          repositories_affiliations: owner, collaborator, organization_member
-
-      # Achievements
-      - name: Generate Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: racha24
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_limit: 0
-
-      # Follow-up Issues and PRs
-      - name: Generate Follow-up Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.followup.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: racha24
-          base: ""
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-          plugin_followup_indepth: yes
-          repositories_affiliations: owner, collaborator, organization_member
-
-      # Code Review Stats
-      - name: Generate Code Review Stats
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.reviews.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: racha24
-          base: ""
-          plugin_reactions: yes
-          plugin_reactions_display: relative
-          plugin_reactions_limit: 1000
-          plugin_reactions_limit_discussions: 1000
-          plugin_reactions_limit_issues: 1000
-
-      # Star History
-      - name: Generate Stars Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.stars.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: racha24
-          base: ""
-          plugin_stars: yes
-          plugin_stars_limit: 10
-
-      # Traffic Stats (for your own repos)
-      - name: Generate Traffic Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.traffic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: racha24
-          base: ""
-          plugin_traffic: yes
-          repositories_affiliations: owner
-
-      # Commit Calendar
-      - name: Generate Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.calendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: racha24
-          base: ""
-          config_timezone: Asia/Kolkata
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
