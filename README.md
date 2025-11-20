@@ -45,7 +45,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raghavendran-chandran.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghavendran-chandran)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/racha24)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahghav)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavendran.chand@gmail.com)
 
 </div>
@@ -148,8 +148,8 @@ professional_highlights:
 
 ### 🎯 Overview Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=racha24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=racha24&theme=tokyonight&hide_border=true&background=0D1117&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahghav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=rahghav&theme=tokyonight&hide_border=true&background=0D1117&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda"/>
 
 </div>
 
@@ -157,8 +157,8 @@ professional_highlights:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=racha24&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10&count_private=true&hide=html,css&custom_title=Most%20Used%20Languages" width="49%"/>
-<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.languages.clean.svg" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahghav&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10&count_private=true&hide=html,css&custom_title=Most%20Used%20Languages" width="49%"/>
+<img src="https://raw.githubusercontent.com/rahghav/rahghav/main/metrics.languages.clean.svg" width="49%"/>
 
 </div>
 
@@ -166,16 +166,16 @@ professional_highlights:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.overview.svg" width="49%"/>
-<img src="https://raw.githubusercontent.com/racha24/racha24/main/metrics.activity.clean.svg" width="49%"/>
+<img src="https://raw.githubusercontent.com/rahghav/rahghav/main/metrics.overview.svg" width="49%"/>
+<img src="https://raw.githubusercontent.com/rahghav/rahghav/main/metrics.activity.clean.svg" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=racha24&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=racha24&theme=tokyonight&utcOffset=5.5" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=racha24&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahghav&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahghav&theme=tokyonight&utcOffset=5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahghav&theme=tokyonight" width="32%"/>
 
 </div>
 
@@ -183,13 +183,13 @@ professional_highlights:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=racha24&theme=tokyo-night&bg_color=0d1117&color=4c8eda&line=4c8eda&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahghav&theme=tokyo-night&bg_color=0d1117&color=4c8eda&line=4c8eda&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://ssr-contributions-svg.vercel.app/_/racha24?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=30" width="100%"/>
+<img src="https://ssr-contributions-svg.vercel.app/_/rahghav?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=30" width="100%"/>
 
 </div>
 
@@ -198,9 +198,9 @@ professional_highlights:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/racha24/racha24/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/racha24/racha24/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/racha24/racha24/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rahghav/rahghav/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rahghav/rahghav/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/rahghav/rahghav/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -211,7 +211,7 @@ professional_highlights:
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=racha24&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+![](https://github-profile-trophy.vercel.app/?username=rahghav&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
 
 </div>
 
@@ -284,6 +284,6 @@ professional_highlights:
 
 [![](https://visitcount.itsvg.in/api?id=Raghu&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-**⭐ From [Raghu](https://github.com/racha24) with passion for building amazing systems! ⭐**
+**⭐ From [Raghu](https://github.com/rahghav) with passion for building amazing systems! ⭐**
 
 </div>

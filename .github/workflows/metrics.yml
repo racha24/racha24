@@ -20,7 +20,7 @@ jobs:
         with:
           filename: metrics.overview.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: racha24
+          user: rahghav
           template: classic
           base: header, activity, community
           config_timezone: Asia/Kolkata
@@ -33,7 +33,7 @@ jobs:
         with:
           filename: metrics.languages.clean.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: racha24
+          user: rahghav
           base: ""
           plugin_languages: yes
           plugin_languages_analysis_timeout: 30
@@ -51,7 +51,7 @@ jobs:
         with:
           filename: metrics.activity.clean.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: racha24
+          user: rahghav
           base: ""
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
