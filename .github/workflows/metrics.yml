@@ -26,6 +26,8 @@ jobs:
           config_timezone: Asia/Kolkata
           repositories: 500
           repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: yes
+          repositories_skipped:
 
       # Clean Language Stats - No Repo Names
       - name: Generate Clean Language Stats
@@ -44,6 +46,8 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
           repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: yes
+          repositories_skipped:
 
       # Clean Activity Graph - No Repo Names
       - name: Generate Clean Activity
@@ -56,3 +60,6 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: yes
+          repositories_skipped:
