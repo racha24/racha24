@@ -27,7 +27,7 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">racha24/jobbot</span></div>
+                                    <div> in <span class="repo">rahghav/jobbot</span></div>
                                     <div>3 files changed <span class="code">++5 --5</span></div>
                                 </div>
                                 <div class="timestamp">10 Oct 2025, 18:22:38</div>
@@ -44,7 +44,7 @@
                       branch
                                         <span class="code">update/api-integration-2025-10-10</span>
                                         in
-                                        <span class="repo">racha24/jobbot</span>
+                                        <span class="repo">rahghav/jobbot</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">10 Oct 2025, 18:22:37</div>
@@ -62,8 +62,8 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by racha24 in <span class="repo">racha24/jobbot</span></div>
-                                    <div class="comment">racha24: Working on this issue. Will have an update soon! 👍</div>
+                                    <div>opened by rahghav in <span class="repo">rahghav/jobbot</span></div>
+                                    <div class="comment">rahghav: Working on this issue. Will have an update soon! 👍</div>
                                 </div>
                                 <div class="timestamp">10 Oct 2025, 16:51:09</div>
                             </section>
@@ -81,7 +81,7 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">racha24/jobbot</span></div>
+                                    <div>opened  in <span class="repo">rahghav/jobbot</span></div>
                                 </div>
                                 <div class="timestamp">10 Oct 2025, 15:53:10</div>
                             </section>
@@ -97,7 +97,7 @@
                       branch
                                         <span class="code">enhancement/sahana-api-integration-2025-10-10-0927</span>
                                         in
-                                        <span class="repo">racha24/jobbot</span>
+                                        <span class="repo">rahghav/jobbot</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">10 Oct 2025, 15:10:25</div>
@@ -111,14 +111,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">racha24/jobbot</span>
+                                        <span class="repo">rahghav/jobbot</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#82acafa</div>
-                                        <div class="message">Merge approved PR by racha24
+                                        <div class="message">Merge approved PR by rahghav
 
 * [SAHANA] Add new API client integration for api-integration
 
@@ -148,7 +148,7 @@ Co-authored-by: sahana-sowkhya &lt;sahana.sowkhya@example.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by sahana-sowkhya in <span class="repo">racha24/jobbot</span></div>
+                                    <div>opened by sahana-sowkhya in <span class="repo">rahghav/jobbot</span></div>
                                     <div>4 files changed <span class="code">++7 --7</span></div>
                                 </div>
                                 <div class="timestamp">10 Oct 2025, 15:10:24</div>
@@ -166,7 +166,7 @@ Co-authored-by: sahana-sowkhya &lt;sahana.sowkhya@example.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by sahana-sowkhya in <span class="repo">racha24/jobbot</span></div>
+                                    <div>opened by sahana-sowkhya in <span class="repo">rahghav/jobbot</span></div>
                                 </div>
                                 <div class="timestamp">10 Oct 2025, 15:10:23</div>
                             </section>
@@ -248,7 +248,7 @@ chore: configure ActiveMQ and add async bulk generation tests</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">racha24/jobbot</span></div>
+                                    <div> in <span class="repo">rahghav/jobbot</span></div>
                                     <div>4 files changed <span class="code">++8 --8</span></div>
                                 </div>
                                 <div class="timestamp">10 Oct 2025, 11:54:04</div>
@@ -265,7 +265,7 @@ chore: configure ActiveMQ and add async bulk generation tests</div>
                       branch
                                         <span class="code">refactor/ui-improvements-2025-10-10</span>
                                         in
-                                        <span class="repo">racha24/jobbot</span>
+                                        <span class="repo">rahghav/jobbot</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">10 Oct 2025, 11:54:02</div>
@@ -279,14 +279,14 @@ chore: configure ActiveMQ and add async bulk generation tests</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">racha24/jobbot</span>
+                                        <span class="repo">rahghav/jobbot</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#0eb5069</div>
-                                        <div class="message">Merge approved PR by racha24
+                                        <div class="message">Merge approved PR by rahghav
 
 * [SAHANA] Optimize database query performance for performance-optimization
 
@@ -315,7 +315,7 @@ Co-authored-by: sahana-sowkhya &lt;sahana.sowkhya@example.com&gt;</div>
                       branch
                                         <span class="code">feature/sahana-performance-optimization-2025-10-10-0326</span>
                                         in
-                                        <span class="repo">racha24/jobbot</span>
+                                        <span class="repo">rahghav/jobbot</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">10 Oct 2025, 09:15:23</div>
